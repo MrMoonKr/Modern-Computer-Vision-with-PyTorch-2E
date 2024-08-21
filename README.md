@@ -1,3 +1,50 @@
+# 책 부록 소스 프로젝트 입니다
+
+직무 교육( OJT, On the job Training )을 위해서 클론 하였습니다.  
+책 관련 링크 입니다.  
+
+- [Modern-Computer-Vision-with-PyTorch 2nd [ 원서 ]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341614913)  
+
+-  
+
+
+## 개발 및 테스트 환경
+
+- windows 10  
+- python 3.12.0
+- pip 23.2.1
+- venv  
+- VS Code  
+- ...  
+
+  ```
+  $ python -m venv .venv-local
+  $ .venv-local/Scripts/Activate.ps1 
+  $ (.venv-local) python --version
+  $ (.venv-local) pip --version
+  $ (.venv-local) pip install -r requirements.txt
+  ```
+
+## 외부 모듈 및 패키지
+
+- ipykernel 
+- numpy  
+- matplotlib  
+- ...
+
+## 사전 지식
+
+- Python  
+- pip  
+- venv  
+- jypyter notebook  
+- ...  
+
+---
+---
+---
+
+
 # Modern-Computer-Vision-with-PyTorch, Second Edition
 This is the code repository for [Modern-Computer-Vision-with-PyTorch, Second Edition](https://www.packtpub.com/product/modern-computer-vision-with-pytorch-second-edition/9781803231334), published by Packt.
 
